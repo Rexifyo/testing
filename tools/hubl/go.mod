@@ -8,7 +8,7 @@ require (
 	cosmossdk.io/core v0.12.0
 	cosmossdk.io/errors v1.0.0
 	github.com/cockroachdb/errors v1.11.1
-	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20230915113003-c7e0bd7b54d0
+	github.com/cosmos/cosmos-sdk v0.50.1
 	github.com/manifoldco/promptui v0.9.0
 	github.com/pelletier/go-toml/v2 v2.1.0
 	github.com/spf13/cobra v1.7.0
@@ -20,7 +20,7 @@ require (
 	cosmossdk.io/collections v0.4.0 // indirect
 	cosmossdk.io/depinject v1.0.0-alpha.4 // indirect
 	cosmossdk.io/log v1.2.1 // indirect
-	cosmossdk.io/math v1.1.3-rc.1 // indirect
+	cosmossdk.io/math v1.2.0 // indirect
 	cosmossdk.io/store v1.0.0 // indirect
 	cosmossdk.io/x/tx v0.12.0 // indirect
 	filippo.io/edwards25519 v1.0.0 // indirect
